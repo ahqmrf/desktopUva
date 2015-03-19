@@ -1,7 +1,7 @@
-#include<string>
-#include<iostream>
-#include<cmath>
-#include<cstdlib>
+#include <string>
+#include <iostream>
+#include <cmath>
+#include <cstdlib>
 using namespace std;
 
 int to_decimal(string str, int base)
